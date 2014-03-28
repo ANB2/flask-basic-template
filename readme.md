@@ -1,6 +1,6 @@
 # Flask Basic Boilerplate
 
-A boilerplate starting point for a Flask web application with Flask-SQLAlchemy and Bootstrap 3.
+A boilerplate starting point for a Flask web application with Flask-SQLAlchemy and Bootstrap 3. *Please use [this](https://github.com/mjhea0/flask-boilerplate) boilerplate for more advanced projects.*
 
 ## Instructions
 
